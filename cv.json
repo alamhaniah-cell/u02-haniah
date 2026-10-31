@@ -1,0 +1,35 @@
+{
+  "education": [
+    {
+      "school": "Chas Academy",
+      "program": "Fullstack JavaScript",
+      "period": "2026–2028"
+    },
+    {
+      "school": "Thoren Business School",
+      "program": "Ekonomi och juridik",
+      "period": "2020-2023"
+    },
+    {
+      "school": "Skuruskola",
+      "period": "2017-2020"
+    }
+  ],
+  "workExperience": [
+    {
+      "workplace": "Fryshuset",
+      "role": "Fritidsledare",
+      "period": "2021–pågående"
+    },
+    {
+      "workplace": "ICA",
+      "role": "Butiksmedarbetare",
+      "period": "2023–pågående"
+    },
+    {
+      "workplace": "Fisksätra Folketshus",
+      "role": "Projektledare",
+      "period": "2020-2024"
+    }
+  ]
+}
